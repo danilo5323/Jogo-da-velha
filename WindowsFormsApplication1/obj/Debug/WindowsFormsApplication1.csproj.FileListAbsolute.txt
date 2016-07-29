@@ -17,3 +17,46 @@ C:\Users\Danilo\Documents\GitHub\Jogo da velha\WindowsFormsApplication1\obj\Debu
 C:\Users\Danilo\Documents\GitHub\Jogo da velha\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\Danilo\Documents\GitHub\Jogo da velha\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\Danilo\Documents\GitHub\Jogo da velha\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+S:\Jogo da velha\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+S:\Jogo da velha\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+S:\Jogo da velha\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+S:\Jogo da velha\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+S:\Jogo da velha\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+S:\Jogo da velha\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+S:\Jogo da velha\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+S:\Jogo da velha\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+S:\Jogo da velha\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Jogo.resources
+S:\Jogo da velha\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Inicio.resources
+C:\Users\Danilo\Dropbox\projetos\Faculdade\Jogo da velha\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Danilo\Dropbox\projetos\Faculdade\Jogo da velha\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Danilo\Dropbox\projetos\Faculdade\Jogo da velha\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Danilo\Dropbox\projetos\Faculdade\Jogo da velha\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Danilo\Dropbox\projetos\Faculdade\Jogo da velha\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Danilo\Dropbox\projetos\Faculdade\Jogo da velha\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Dropbox\projetos\Faculdade\Jogo da velha\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Jogo.resources
+C:\Users\Danilo\Dropbox\projetos\Faculdade\Jogo da velha\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Inicio.resources
+C:\Users\Danilo\Dropbox\projetos\Faculdade\Jogo da velha\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Danilo\Dropbox\projetos\Faculdade\Jogo da velha\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+S:\Faculdade\Jogo da velha - apresentar\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+S:\Faculdade\Jogo da velha - apresentar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+S:\Faculdade\Jogo da velha - apresentar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+S:\Faculdade\Jogo da velha - apresentar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+S:\Faculdade\Jogo da velha - apresentar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Jogo.resources
+S:\Faculdade\Jogo da velha - apresentar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Inicio.resources
+S:\Faculdade\Jogo da velha - apresentar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+S:\Faculdade\Jogo da velha - apresentar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+S:\Faculdade\Jogo da velha - apresentar\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+S:\Faculdade\Jogo da velha - apresentar\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\dropoxs\Dropbox\projetos\Faculdade\Jogo da velha - apresentar\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\dropoxs\Dropbox\projetos\Faculdade\Jogo da velha - apresentar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\dropoxs\Dropbox\projetos\Faculdade\Jogo da velha - apresentar\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+Z:\Jogo da velha\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+Z:\Jogo da velha\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+Z:\Jogo da velha\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+Z:\Jogo da velha\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+Z:\Jogo da velha\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+Z:\Jogo da velha\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+Z:\Jogo da velha\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Jogo.resources
+Z:\Jogo da velha\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Inicio.resources
+Z:\Jogo da velha\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Z:\Jogo da velha\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
